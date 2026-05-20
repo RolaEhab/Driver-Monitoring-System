@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/cd35a24e-5de4-4d2d-a712-b7a67504e22d
+
+
+
+
+
 # 🚗 Real-Time Driver Monitoring System (DMS)
 
 A real-time Driver Monitoring System that detects **drowsiness** and **distracted behaviors** using deep learning, applies temporal rules to avoid false alarms, and provides **visual and audio alerts** to improve driving safety.
